@@ -5,3 +5,5 @@ dash 			&mdash;
 ellipsis	…	&#133;
 			“	&ldquo;
 			”	&rdquo;
+			
+aid:pstyle		class
