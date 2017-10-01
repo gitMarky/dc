@@ -1,9 +1,10 @@
 apostrophe		&#146;
 dash 		–	&ndash;
-dash 			&mdash;
+dash 		–	&ndash;
+dash 		—	&mdash;
 			✴	&#x2734;
 ellipsis	…	&#133;
 			“	&ldquo;
 			”	&rdquo;
-			
+			’	&rquo;
 aid:pstyle		class
