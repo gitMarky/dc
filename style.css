@@ -11,7 +11,7 @@ p.MoveOneLine, p.MoveMultiLine
 	display: block;
 	padding-top: 0.5em;
 }
-p.MoveMultiLine ~ ul 
+p.MoveMultiLine ~ ul, ul
 {
     list-style: "\2734  ";
     padding-left: 1.5em;
