@@ -1,0 +1,45 @@
+Basic
+Cool = Act under fire
+Hot = Manipulate 
+Hard = Go Aggro
+Sharp = Read Situation, read person 
+Weird = Open Brain
+
+Basic other
+Hard = Sucker someone
+Hx = Help or interfere
+
+Battle
+Cool=Stand overwatch
+Hot=
+Hard=Seize by force, lay down fire
+Sharp=Keep an eye out
+Weird=
+
+Subterfuge
+Cool = Bait a trap, Hunt prey, Escape a Hunter
+Hot = 
+Hard = 
+Sharp = Turn the tables
+Weird = 
+
+Road war
+Cool = board a vehicle, outrun a vehicle, overtake, bad terrain, shoulder,
+Hot = 
+Hard = 
+Sharp =
+Weird = 
+
+Special character moves
+Cool = (Escape) Eye on the door, Reputation
+Hot = Dangerous & sexy, Everybody eats, Artful & Gracious
+Hard = Pack alpha, Fucking thieves, (Escape) Fuck this shit, Leadership
+Sharp = 
+Weird = Visions of Death, Mind control, Frenzy, Things speak
+
+Character moves that replace the original stat
+Cool = Go Aggro, Open Brain, 
+Hot = Act under Fire
+Hard = Act under Fire, Stand Overwatch, Open Brain
+Sharp = Open Brain, Aid
+Weird = Seduce, Read Person, Go Aggro, Manipulate
