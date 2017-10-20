@@ -43,3 +43,65 @@ Hot = Act under Fire
 Hard = Act under Fire, Stand Overwatch, Open Brain
 Sharp = Open Brain, Aid
 Weird = Seduce, Read Person, Go Aggro, Manipulate
+
+
+-----------------------------------------------
+
+
+Basic
+Act under fire  = Cool, calm, self-controlled, cold-blooded
+Manipulate      = Cunning, Sly, scheming
+Go Aggro        = violent, ruthless
+Read Situation  = wise, versed, keen, sharp, smart
+Read person     = wise, versed, keein, sharp, smart
+Open Brain      = 
+
+Basic other
+Hard = Sucker someone
+Hx = Help or interfere
+
+Battle
+Cool=Stand overwatch
+Hot=
+Hard=Seize by force, lay down fire
+Sharp=Keep an eye out
+Weird=
+
+Subterfuge
+Cool = Bait a trap, Hunt prey, Escape a Hunter
+Hot = 
+Hard = 
+Sharp = Turn the tables
+Weird = 
+
+Road war
+Cool = board a vehicle, outrun a vehicle, overtake, bad terrain, shoulder,
+Hot = 
+Hard = 
+Sharp =
+Weird = 
+
+Special character moves
+Cool = (Escape) Eye on the door, Reputation
+Hot = Dangerous & sexy, Everybody eats, Artful & Gracious
+Hard = Pack alpha, Fucking thieves, (Escape) Fuck this shit, Leadership
+Sharp = 
+Weird = Visions of Death, Mind control, Frenzy, Things speak
+
+Character moves that replace the original stat
+Cool = Go Aggro, Open Brain, 
+Hot = Act under Fire
+Hard = Act under Fire, Stand Overwatch, Open Brain
+Sharp = Open Brain, Aid
+Weird = Seduce, Read Person, Go Aggro, Manipulate
+
+-----------------------------------------------
+
+Basic
+
+Cool = Defy danger, Confront
+Hard = Unleash Violence
+Sharp = Manipulate, Read a situation, Read a person
+Hot = Seduce
+Genius = 
+ 
