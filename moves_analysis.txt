@@ -99,9 +99,9 @@ Weird = Seduce, Read Person, Go Aggro, Manipulate
 
 Basic
 
-Cool = Defy danger, Confront
+Cool = Defy danger, 
 Hard = Unleash Violence
 Sharp = Manipulate, Read a situation, Read a person
-Hot = Seduce
+Hot = Seduce, Confront
 Genius = 
  
