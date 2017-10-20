@@ -99,9 +99,13 @@ Weird = Seduce, Read Person, Go Aggro, Manipulate
 
 Basic
 
-Cool = Defy danger, 
-Hard = Unleash Violence
-Sharp = Manipulate, Read a situation, Read a person
-Hot = Seduce, Confront
-Genius = 
+* = expected to be very useful / used frequently
++ = expected to be useful
+~ = expected to be used occasionally
+
+Cool (1) = *Defy danger
+Hard (1) = Unleash Violence
+Sharp (3) = +Manipulate, *Read a situation, +Read a person
+Hot (3) = +Confront, ~Help or Interfere, ~Seduce
+Genius (1) = +Think deeply
  
